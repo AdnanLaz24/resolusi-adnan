@@ -1,6 +1,7 @@
 Rencana Belajar
 
 Belajar Javascript
-Belajar PHP Framework
+Belajar PHP dasar
+Belajar Laravel
 Belajar Back-End
 Daftar Bootcamp Dicoding 2025 batch 6
