@@ -1,5 +1,5 @@
 Resolusi Adnan
 - Belajar Kembali Bahasa pemrograman PHP dasar
 - Belajar Back-End web development
-- Belajar setiap hari minimal 2 jam
+- Belajar setiap hari minimal 4 jam
 - Belajar Github untuk melatih Project Kolaborasi
