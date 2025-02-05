@@ -1,0 +1,3 @@
+Resolusi Adnan
+- Belajar Kembali Bahasa pemrograman PHP dasar
+- Belajar Back-End web development
